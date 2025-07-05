@@ -34,6 +34,7 @@
     <packaging>jar</packaging>
 
     <properties>
+        <!--suppress UnresolvedMavenProperty -->
         <shiro.session.id>${sessionId}</shiro.session.id>
         <keytoolVersion>1.5</keytoolVersion>
     </properties>
